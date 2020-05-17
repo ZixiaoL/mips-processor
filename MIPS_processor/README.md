@@ -1,3 +1,5 @@
+## This is the detailed description of the 5-stage pipelined MIPS processor we simulated. Most implementations here are based on this processor, with other functions added.
+
 ## Cycle-accurate simulator for a 5-stage pipelined MIPS processor in C++
 
 The simulator supports a subset of the MIPS instruction set and should model the execution of each instruction with cycle accuracy.
